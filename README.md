@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates an off-by-one error, a common type of bug in C and other programming languages. The bug is described in the `bug.c` file, and a corrected version is provided in `bugSolution.c`.  The off-by-one error arises from incorrect loop termination condition.
